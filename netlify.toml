@@ -3,6 +3,5 @@
   command = "bundle exec jekyll build"
 
 [build.environment]
-  RUBY_VERSION = "3.1.2"
   RUBY_VERSION = "3.2.2"
   RUBYGEMS_VERSION = "3.3.22"
